@@ -1,0 +1,18 @@
+body
+{
+	background-color: gray;
+	color: white;
+	margin: 50px;
+}
+
+h1{
+	color: #752936;
+}
+
+.navbar-nav .nav-link{
+    color:#752936;
+}
+
+.navbar-nav .nav-link.active{
+    color:#752936;
+}
